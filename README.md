@@ -26,14 +26,14 @@ Trình biên dịch XC8 tốn rất nhiều dung lượng ROM/RAM để xử lý
 
 ## 📸 System Schematic & Demo
 
-<img width="1701" height="937" alt="safe" src="https://github.com/user-attachments/assets/c691d144-85e1-480a-897c-84a50b9bee72" />
-<img width="1697" height="936" alt="over_heat" src="https://github.com/user-attachments/assets/89d09949-1e1f-4075-b8f6-37cc8a7221fb" />
+**1. Normal Operation (Trạng thái An toàn - Đèn xanh)**
+![Safe State](images/safe.png)
 
-`![Schematic](images/schematic.png)`
+**2. Overheat Alert (Trạng thái Cảnh báo - Đèn đỏ & Còi)**
+![Overheat State](images/overheat.png)
 
-<img width="800" height="452" alt="overview" src="https://github.com/user-attachments/assets/6825c81d-00ab-4fb5-9342-cbd5c2f28086" />
-
-`![Simulation Demo](images/demo.gif)`
+**3. Real-time Operation Demo (Mô phỏng thay đổi Offset và Nhiệt độ)**
+![System Overview](images/overview.gif)
 
 ## 📁 Repository Structure
 * `/src`: Chứa mã nguồn nhúng viết bằng C.
