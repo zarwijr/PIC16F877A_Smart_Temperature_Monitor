@@ -1,4 +1,3 @@
-<img width="1701" height="937" alt="safe" src="https://github.com/user-attachments/assets/964312bd-a3cb-4b6a-8108-8ec36999ef5b" />
 # PIC16F877A_Smart_Temperature_Monitor
 # Smart Temperature Monitoring System with Dynamic Offset
 
@@ -28,17 +27,17 @@ Trình biên dịch XC8 tốn rất nhiều dung lượng ROM/RAM để xử lý
 ## 📸 System Schematic & Demo
 
 **1. Normal Operation (Trạng thái An toàn - Đèn xanh)**
-![Safe State](images/safe.png)
+![Safe State](PIC16F877A_Smart_Temperature_Monitor/images/safe.png)
 <img width="1701" height="937" alt="safe" src="https://github.com/user-attachments/assets/4c06dc3a-2f66-4dd2-be95-fac932870cc3" />
 
 
 **2. Overheat Alert (Trạng thái Cảnh báo - Đèn đỏ & Còi)**
-![Overheat State](images/overheat.png)
+![Overheat State](PIC16F877A_Smart_Temperature_Monitor/images/overheat.png)
 <img width="1697" height="936" alt="over_heat" src="https://github.com/user-attachments/assets/7a37ae14-67b3-4aef-84bd-392e5ee33264" />
 
 
 **3. Real-time Operation Demo (Mô phỏng thay đổi Offset và Nhiệt độ)**
-![System Overview](images/overview.gif)
+![System Overview](PIC16F877A_Smart_Temperature_Monitor/images/overview.gif)
 <img width="800" height="452" alt="overview" src="https://github.com/user-attachments/assets/10570910-8d0b-4a03-85cf-c8aa1e6c2dd1" />
 
 
